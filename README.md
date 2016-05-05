@@ -20,7 +20,7 @@ In order for our app to run and serve the files we need, you'll need to run the 
 If you need to issue any more commands, open another Terminal window (or tab)
 
 ## Making Changes
-Make changes in the /public/scripts, /pubic/styles, and public/views folders. In order to see the changes, you need to restart the server.
+Make changes in the `/public/scripts`, `/public/styles`, and `public/views` folders. In order to see the changes, you need to restart the server.
 
 1. In the Terminal window that is running the server, hit the keys Control + C (to Cancel). You will see: '^C'
 2. Once changes are made, start the server again with: npm start
