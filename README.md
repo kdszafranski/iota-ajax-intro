@@ -1,20 +1,20 @@
 # jQuery AJAX Lecture Notes
 This app requires you have installed and can run a local Node server.
 
-## Installing Homebrew and Node.js
+## Installing Homebrew and Node.js (one-time)
 1. [Install Homebrew](http://brew.sh/). This will be done on the command line (Terminal)
 2. Once Homebrew is installed, run the command: brew install node
-3. Navigate to your project directory.
-4. Run the command: npm install.
-    4. This will install all of the required packages our application requires.
-    4. You should see a new directory called 'node_modules' in your project now.
 
-## Running the Server
+## Running the Server and Application
 In order for our app to run and serve the files we need, you'll need to run the server.
 
-1. From the project directory, use the command: npm start
-    1. You should see a message on the command line: 'Listening on port: 5000'
-2. Go to http://localhost:5000 in your browser to see the index.html file in action
+1. Download or fork (then clone) this project. Navigate to your project directory in Terminal.
+2. Run the command: npm install
+  2. This will install all of the required node packages our application requires.
+  2. You should see a directory called 'node_modules' in your project now.
+3. From the project directory, use the command: npm start
+    3. You should see a message on the command line: 'Listening on port: 5000'
+4. Go to http://localhost:5000 in your browser to see the index.html file in action
 
 **NOTE Do not close this Terminal window as it is actively running the Node server**
 If you need to issue any more commands, open another Terminal window (or tab)
