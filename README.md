@@ -1,4 +1,4 @@
-# API Lecture Notes
+# jQuery AJAX Lecture Notes
 This app requires you have installed and can run a local Node server.
 
 ## Installing Homebrew and Node.js
