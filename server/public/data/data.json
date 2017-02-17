@@ -1,6 +1,18 @@
 {
   "people" : [
     {
+        "name"     : "Luke Schlangen",
+        "position" : "Instructor",
+        "location" : "Eden Prairie",
+        "imageURL" : "https://media.licdn.com/media/AAEAAQAAAAAAAAdiAAAAJDk0MWZkMWNlLTJiNTktNGMzYi1hYjk3LTUzNzJkNWJjMTRkYg.jpg"
+    },
+    {
+        "name"     : "Millicent Walsh",
+        "position" : "Instructor",
+        "location" : "Minneapolis",
+        "imageURL" : "https://media.licdn.com/media/AAEAAQAAAAAAAAiYAAAAJGMwM2ZiZDlkLWQyOWItNDUwMS05MjE2LTdjYjVkZDg4MzljMg.jpg"
+    },
+    {
         "name"     : "Kris Szafranski",
         "position" : "Instructor",
         "location" : "Richfield",
@@ -11,18 +23,6 @@
         "position" : "Instructor",
         "location" : "St. Paul",
         "imageURL" : "https://media.licdn.com/media/AAEAAQAAAAAAAAeaAAAAJDhkZjU3M2U4LTk2ZGMtNGYwYS1hNjU5LWIwZmMwODdjMDhlZQ.jpg"
-    },
-    {
-        "name"     : "Casie Siekman",
-        "position" : "T.A.",
-        "location" : "Minneapolis",
-        "imageURL" : "https://media.licdn.com/media/AAEAAQAAAAAAAAO0AAAAJGM4MmE5NDZiLWFmY2ItNDk0Ny1iNjlhLWQyOTFmNmRiZWIzMA.jpg"
-    },
-    {
-        "name": "Fred Sheahan",
-        "position": "Learning Environment Engineer",
-        "location": "Eden Prairie",
-        "imageURL": "https://media.licdn.com/media/AAEAAQAAAAAAAAiAAAAAJGQ2OTQ5YTllLTY2OTctNDI3Yi1iY2ZhLTA0MDdjMWQyZjAxYw.jpg"
     }
   ]
 }
